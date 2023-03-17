@@ -1,2 +1,2 @@
-var yourArray = ['one', 2, 'three', true, null];
+var yourArray = ['Arjun',true,null,56,'Rohan world'];
 console.log(yourArray);
